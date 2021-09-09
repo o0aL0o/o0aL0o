@@ -21,5 +21,6 @@
 <img align="left" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 <img align="left" src="https://img.icons8.com/nolan/50/git.png"/>
 <img align="left" src="https://img.icons8.com/nolan/50/github.png"/>
+<img align="left" src="https://img.icons8.com/nolan/50/cs.png"/>
 
 
