@@ -12,13 +12,12 @@
 ### Languages and Tools:
 <img align="left" src="https://img.icons8.com/nolan/50/java-coffee-cup-logo.png"/>
 <img align="left" src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>
-<img align="left" src="https://img.icons8.com/color/100/000000/html-5--v1.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/50/000000/css3.png"/>
+<img align="left" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/50/000000/nodejs.png"/>
+<img align="left" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
+<img align="left" src="https://img.icons8.com/nolan/50/git.png"/>
+<img align="left" src="https://img.icons8.com/nolan/50/github.png"/>
+
 
