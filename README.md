@@ -1,11 +1,13 @@
 ### 👋 Hi, I’m Adrian - aka aL.
 
+## I'm a Student!📕📕
+
 <br />
 
 - 👀 I’m interested in creating new stuff~~
-- 🌱 I’m currently learning lot of things
+- 🌱 I’m currently learning a lot of things
 - 🤯 I'm working on discord.js
-- 📫 2021 Goals: create my own discord bot with mini game to play
+- 📫 2021 Goals: Create my discord bot with mini-game to play
 
 <br />
 
