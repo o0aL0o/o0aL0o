@@ -6,8 +6,8 @@
 
 - 👀 I’m interested in creating new stuff~~
 - 🌱 I’m currently learning a lot of things
-- 🤯 I'm working on discord.js
-- 📫 2021 Goals: Create my discord bot with mini-game to play
+- 🤯 I'm working on my own website
+- 📫 2024 Goals: Complete 60% of my website
 
 <br />
 
